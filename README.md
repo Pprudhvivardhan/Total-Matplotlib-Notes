@@ -2,7 +2,7 @@
 
 📚 Complete Matplotlib Notes 📚
 
-🎨 Are you ready to master the art of data visualization? Look no further! 🌟 I am thrilled to share with you my comprehensive set of Matplotlib notes, covering all the essential topics and various kinds of plots! 📊 🌌
+🎨 Are you ready to master the art of data visualization? Look no further! 🌟 I am thrilled to share with you my comprehensive set of Matplotlib notes, covering all the essential topics and various kinds of plots! 📊  
 
 📝 In these notes, you will find everything you need to know about Matplotlib, one of the most powerful and widely used data visualization libraries in Python. From basic concepts to advanced techniques, this collection is designed to help you unleash your creativity and create stunning visual representations of your data. 🌌
 
